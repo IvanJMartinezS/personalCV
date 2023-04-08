@@ -497,6 +497,17 @@ body {
   .resume .resume-item ul li {
     padding-bottom: 10px;
   }
+
+  .resume .resume-item .verify{
+    outline: none;
+    text-decoration: none;
+    color: #1f5297;
+
+  }
+  .resume .resume-item .verify:hover {
+    border-bottom: 3px solid;
+    background: #1796bd;
+  }
   
   .resume .resume-item:last-child {
     padding-bottom: 0;
